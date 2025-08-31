@@ -1,4 +1,4 @@
-##Customer Churn Analysis
+## Customer Churn Analysis
 
 **Project Overview**
 This project focuses on analyzing and predicting **customer churn** using data-driven approaches. By exploring customer behavior and historical data, the project identifies key factors
