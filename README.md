@@ -18,6 +18,5 @@ that contribute to churn and applies machine learning models to predict whether 
 **Technologies Used**
 - **Python**
 - **Pandas, NumPy** (Data manipulation)  
-- **Matplotlib, Seaborn** (Data visualization)  
-- **Scikit-learn** (Machine Learning models & evaluation)  
+- **Matplotlib, Seaborn** (Data visualization)    
 - **Jupyter Notebook** (Development environment)
